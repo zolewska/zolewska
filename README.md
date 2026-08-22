@@ -10,5 +10,7 @@ I have many ideas that I slowly finalize.
 
 Fun Facts:
 ☆ I'm a flamenco dancer.
+
 ☆ I love music. I play violin and bass guitar.
+
 ☆ My favourite singer is Jeff Buckley.
