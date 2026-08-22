@@ -1,7 +1,7 @@
 (っ◔◡◔)っ ♥ Hey there! ♥
 
 
-I'm Zofia, a computer science & econometry student.
+I'm Zofia, a computer science & econometrics student.
 
 I'm currently learning Python, C and SwiftUI.
 
