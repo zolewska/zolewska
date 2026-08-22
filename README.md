@@ -1,16 +1,14 @@
-## Hi there 👋
+(っ◔◡◔)っ ♥ Hey there! ♥
 
-<!--
-**zolewska/zolewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Zofia, a computer science & econometry student.
 
-Here are some ideas to get you started:
+I'm currently learning Python, C and SwiftUI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love making cute and useful applications. 
+
+I have many ideas that I slowly finalize.
+
+Fun Facts:
+☆ I'm a flamenco dancer.
+☆ I love music. I play violin and bass guitar.
+☆ My favourite singer is Jeff Buckley.
